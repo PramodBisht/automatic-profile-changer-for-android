@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="com.pramod" android:versionCode="2" android:versionName="1.0">
+	<uses-sdk android:minSdkVersion="8" />
+
+	<uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"></uses-permission>
+	<uses-permission android:name="android.permission.VIBRATE"></uses-permission>
+	<uses-permission android:name="android.permission.WRITE_SETTINGS"></uses-permission>
+	<uses-permission android:name="android.permission.WAKE_LOCK"></uses-permission>
+	<uses-permission android:name="android.permission.INTERNET"></uses-permission>
+
+
+
+
+
+	<application android:icon="@drawable/icon" android:label="@string/app_name">
+		<activity android:name=".AutomaticprofileChangerActivity"
+			android:theme="@style/Theme.Transparent" android:label="@string/app_name">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+		<activity android:name=".about" android:label="@string/app_name">
+			<intent-filter>
+				<action android:name="android.intent.action.VIEW" />
+				<category android:name="android.intent.category.DEFAULT" />
+			</intent-filter>
+		</activity>
+		<activity android:name=".launchwithservice" android:label="@string/app_name">
+			<intent-filter>
+				<action android:name="android.intent.action.VIEW" />
+				<category android:name="android.intent.category.DEFAULT" />
+			</intent-filter>
+		</activity>
+		<activity android:name=".helpscreen"></activity>
+		<activity android:name=".donate"></activity>
+		<service android:name=".BackgroundService" />
+		<activity android:name=".settings" />
+		<activity android:name=".test" />
+		<activity android:name=".ModifyProfile" />
+		
+		
+		
+		<!-- Airpush Code Start-->
+<activity android:name="com.airpush.android.PushAds"
+android:configChanges="orientation|keyboardHidden"/>
+<receiver android:name="com.airpush.android.UserDetailsReceiver"/>
+<receiver android:name="com.airpush.android.MessageReceiver" />
+<receiver android:name="com.airpush.android.DeliveryReceiver" />
+<receiver android:name="com.pramod.BootReceiver">
+<intent-filter>
+<action android:name="android.intent.action.BOOT_COMPLETED" />
+<category android:name="android.intent.category.HOME" />
+</intent-filter>
+</receiver>
+<service android:name="com.airpush.android.PushService">
+<intent-filter>
+<action android:name="com.airpush.android.PushServiceStart15785"/>
+<!-- here 15785 is appid -->
+<!-- here 25487 is appid -->
+</intent-filter>
+</service>
+<!-- ending of airpush code -->
+
+
+	</application>
+	<!-- permission for airpush -->
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+	<uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+	<uses-permission android:name="com.android.browser.permission.READ_HISTORY_BOOKMARKS"/>
+	<uses-permission android:name="com.android.browser.permission.WRITE_HISTORY_BOOKMARKS"/>
+	<uses-permission android:name="android.permission.FLASHLIGHT"/>
+	<uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT"/>
+	<!-- ending of airpush permissions -->
+	
+</manifest>

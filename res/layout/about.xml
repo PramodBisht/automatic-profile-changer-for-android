@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:orientation="vertical">
+	<TextView android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:text="@string/creator_of_software"
+		android:layout_marginBottom="30sp" />
+		<TextView android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:text="@string/contributer"
+		android:layout_marginBottom="30sp" />
+	<TextView android:text="@string/feedback"
+		android:layout_width="fill_parent" android:layout_height="wrap_content" />
+	<Button android:layout_height="wrap_content" android:id="@+id/feedbackbt"
+		android:layout_gravity="center_horizontal" android:layout_width="wrap_content"
+		android:text="@string/feedbackbutton"></Button>
+	<Button android:layout_width="wrap_content" android:text="@string/bug_report" android:id="@+id/bugreport" android:layout_gravity="center_horizontal" android:layout_height="wrap_content"></Button>
+	<Button android:layout_width="wrap_content" android:text="@string/web_link" android:id="@+id/ourwebsitebtn" android:layout_height="wrap_content" android:layout_gravity="center_horizontal"></Button>
+
+
+</LinearLayout>

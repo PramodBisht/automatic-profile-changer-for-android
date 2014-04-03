@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Automatisk profil växlare-Swedish version</string>
+	<string name="app_name">Automatisk profil växlare</string>
+	<string name="eula_tilte">Licensavtal</string>
+	<string name="eula_accept">acceptera</string>
+	<string name="eula_refuse">vägra</string>
+	<string name="create_new_profile">Skapa ny profil</string>
+	<string name="empty">Du har inte angett någon profil förrän ännu
+	</string>
+	<string name="back">Tillbaka till föregående skärm</string>
+	<string name="creator_of_software">Denna programvara är skapad av Pramod Singh Bisht
+	</string>
+	<string name="donate">Donera</string>
+	<string name="donaterequest">Om du känner dig, har denna ansökan förändrat ditt
+		liv
+		och du vill stödja dess utveckling. Sedan donera!!</string>
+	<string name="feedback">Fråga gärna något avseende denna ansökan och för
+		alla typer av förslag och felrapporten är du välkommen
+	</string>
+	<string name="feedbackbutton">Feedback</string>
+	<string name="paypaldonation">Donera via PayPal</string>
+		<string name="time_format">Tidsformat</string>
+	<string name="helptext">Detta är den första utgåvan av Automatisk profil
+		växlare. Med hjälp av denna programvara kan du ställa in den tid då
+		din vilja
+		automatiskt få förändrats.
+		För det bara en sak du behöver göra är att först ställa in dagarna i
+		veckan och
+		tid och typ av profil.
+		vi har gett tre typer av Profil för användare som ringsignal, Ljudlös,
+		Vibrera.
+		I ringtone läge mobilen fungerar som vanligt inställningar, i tyst läge
+		din
+		mobil kommer att bli tysta och vibrerar
+		din kommer att vara i vibrera läge.</string>
+	<string name="disclaimair">
+		<b>Författaren av denna ansökan har frigöra denna
+			ansökan enligt Apache License. Så, författaren till denna ansökan
+			skulle vara ansvarig för någon form av skador och förlust.</b>
+	</string>
+	<string name="fakecommerciallypayedtosomeone">
+		<i>Denna programvara är gratis att använda och distribuera. om du
+			har betalt någon för detta. Sedan tillbaka det</i>
+	</string>
+	<string name="set_the_name_of_profile">Ange namnet på profilen</string>
+	<string name="hint_name_of_profile">Ange namnet på profilen</string>
+	<string name="set_starting_time">Ställ in starttid</string>
+	<string name="set_ending_time">Ställ sluttid</string>
+	<string name="select_days">Välj dagar</string>
+	<string name="sunday">Söndag</string>
+	<string name="contributer">contributer- Abhishek Sharma</string>
+	<string name="monday">Måndag</string>
+	<string name="tuesday">tisdag</string>
+	<string name="wednesday">Onsdag</string>
+	<string name="thursday">Torsdag</string>
+	<string name="friday">Fredag</string>
+	<string name="saturday">Lördag</string>
+	<string name="save">Spara</string>
+	<string name="cancel">Avbryt</string>
+	<string name="startservicestring">starta tjänsten</string>
+	<string name="stopservicestring">stoppa tjänsten</string>
+	<string name="aboutstring">Om</string>
+	<string name="settingstring">inställningar</string>
+	<string name="morestring">mer</string>
+	<string name="helpstring">Hjälp</string>
+	<string name="to">till</string>
+	<string name="AM">AM</string>
+	<string name="PM">PM</string>
+	<string name="Ringtone">Ringtone</string>
+	<string name="Vibrate">vibrera</string>
+	<string name="Silent">tyst</string>
+	<string name="Airplane">flygplan</string>
+	<string name="Modify">ändra</string>
+	<string name="Delete">Är du säker på att du vill ta bort denna profil?
+	</string>
+	<string name="Yes">ja</string>
+	<string name="No">inga</string>
+	<string name="Ren_the_profile">Byt namn på profil</string>
+	<string name="set_the_profile">aktivera profilen</string>
+
+	<string name="Delay_time">fördröjning</string>
+	<string name="Set_the_lang">Ställ in språk</string>
+
+
+<string name="online_help">Online hjälp</string>
+	<string name="bug_report">Felrapporter</string>
+	<string name="web_link">nyheter om Automatiska profil växlare</string>
+
+<string name="set_time_format">Ställ in tidsformat</string>
+	<string name="set_delay_time">Ställa in en fördröjning</string>
+	<string name="set_lang">Ställ in språk</string>
+	
+	
+	<string name="lang_notification">Du måste starta den automatiska Profil växlare för att spegla hela språkförändring</string>
+	
+<string name="upgradation">Uppgradera till fullständig version</string>
+</resources>

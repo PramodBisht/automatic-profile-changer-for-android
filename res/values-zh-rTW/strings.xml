@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">自動配置轉換-traditonal chinease for Taiwan</string>
+	<string name="app_name">Automatic Profile Changer</string>
+	<string name="eula_tilte">許可協議</string>
+	<string name="eula_accept">接受</string>
+	<string name="eula_refuse">拒絕</string>
+	<string name="create_new_profile">創建新的配置文件</string>
+	<string name="empty">您還沒有設置任何個人資料，直到尚未</string>
+	<string name="back">回到前一畫面</string>
+	<string name="creator_of_software">這個軟件是創建普拉莫德辛格Bisht
+	</string>
+	<string name="donate">捐贈</string>
+	<string name="donaterequest">如果你覺得，這個應用程序已經改變你的生活，你要支持其發展。然後，捐贈！！</string>
+	<string name="feedback">隨意問任何關於此應用程序的任何建議和bug報告，您是最歡迎的
+	</string>
+	<string name="feedbackbutton">反饋</string>
+	<string name="paypaldonation">通過 Paypal捐款</string>
+	<string name="helptext">
+		這是自動配置文件換的第一個版本。使用這個軟件，你可以設置在您將自動獲得改變的時間。它只有一件事你需要做的是第一套一周的日子和時間，配置文件的類型。我們已經為用戶配置文件的類型，鈴聲，靜音，振動。鈴聲模式您的移動工作像往常一樣設置，你的手機在無聲模式下會變得沉默，在振動將振動模式。
+	</string>
+	<string name="disclaimair">
+		<b>這個應用程序的作者Apache許可下發布該應用程序。因此，該應用程序的作者將任何破壞和損失負責。</b>
+	</string>
+	<string name="fakecommerciallypayedtosomeone">
+		<i>這個軟件是免費使用和分發。，如果您有payed此人。然後，退款</i>
+	</string>
+	
+		<string name="time_format">時間格式</string>
+	<string name="set_the_name_of_profile">設置配置文件的名稱</string>
+	<string name="hint_name_of_profile">輸入配置文件的名稱</string>
+	<string name="set_starting_time">設置起始時間</string>
+	<string name="set_ending_time">設置結束時間</string>
+	<string name="select_days">選擇天</string>
+	<string name="sunday">星期日</string>
+	<string name="monday">（星期一）</string>
+	<string name="tuesday">週二</string>
+	<string name="wednesday">星期三</string>
+	<string name="thursday">星期四</string>
+	<string name="friday">星期五</string>
+	<string name="saturday">星期六</string>
+	<string name="save">保存</string>
+	<string name="contributer">contributer- Abhishek Sharma</string>
+	<string name="cancel">取消</string>
+	<string name="startservicestring">啟動服務</string>
+	<string name="stopservicestring">停止服務</string>
+	<string name="aboutstring">關於</string>
+	<string name="settingstring">設置</string>
+	<string name="morestring">更多</string>
+	<string name="helpstring">幫助</string>
+
+	<string name="to">到</string>
+	<string name="AM">上午</string>
+	<string name="PM">下午</string>
+	<string name="Ringtone">鈴聲</string>
+	<string name="Vibrate">顫動</string>
+	<string name="Silent">無聲</string>
+	<string name="Airplane">飛機</string>
+	<string name="Modify">修改</string>
+	<string name="Delete">你確定要刪除此配置文件嗎？ </string>
+	<string name="Yes">是</string>
+	<string name="No">無</string>
+	<string name="Ren_the_profile">重命名配置文件</string>
+	<string name="set_the_profile">設置配置文件</string>
+
+	<string name="Delay_time">延遲時間</string>
+	<string name="Set_the_lang">設置語言</string>
+	
+	
+	<string name="online_help">在線幫助</string>
+	<string name="bug_report">報告問題</string>
+	<string name="web_link">新聞自動配置交換</string>
+	
+	<string name="set_time_format">設置時間格式</string>
+	<string name="set_delay_time">設置延遲時間</string>
+	<string name="set_lang">設置語言</string>
+	<string name="lang_notification">您必須重新啟動自動配置更換，以反映完整的語言變化</string>
+	
+<string name="upgradation">升級到完整版</string>
+
+
+</resources>

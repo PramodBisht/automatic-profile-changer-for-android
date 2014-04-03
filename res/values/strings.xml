@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Automatic Profile Changer</string>
+	<string name="app_name">APC</string>
+	<string name="eula_tilte">License Agreement</string>
+	<string name="eula_accept">Accept</string>
+	<string name="eula_refuse">Refuse</string>
+	<string name="create_new_profile">Create new profile</string>
+	<string name="empty">You have not set any profile till yet</string>
+	<string name="back">Back to previous screen</string>
+	<string name="creator_of_software">This software is created by Pramod Singh Bisht
+	</string>
+	<string name="donate">Donate</string>
+	<string name="donaterequest">If you feel, this application has changed your life
+		and you want to support its development. Then, donate !!!!</string>
+	<string name="feedback">Feel free to ask anything regard this application and for any kind of suggestion and bug report you are most welcome
+	</string>
+	<string name="feedbackbutton">Feedback</string>
+	<string name="paypaldonation">Donate through Paypal</string>
+	<string name="helptext">This is the first release of Automatic profile changer. Using this software you can set the time in which your will automatically get changed. For it only one thing you need to do is to first set the days of week and time and type of profile. We have given three type of profile for user which are Ringtone, Silent, Vibrate. In ringtone mode your mobile work as usual settings, in silent mode your mobile will become silent and in vibrate your will be in vibrate mode.</string>
+	<string name="disclaimair"><b>The Author of this application has release this
+		application under Apache license. So, the author of this application
+		would be responsible for any kind of damage and loss.</b></string>
+	<string name="fakecommerciallypayedtosomeone"><i>This software is free to use and distribute. If you
+		have payed someone for this. Then, refund it</i></string>
+	<string name="set_the_name_of_profile">Set the name of profile</string>
+	<string name="hint_name_of_profile">Enter the name of profile</string>
+	<string name="set_starting_time">Set starting time</string>
+	<string name="set_ending_time">Set ending time</string>
+	<string name="select_days">Select days</string>
+	<string name="sunday">Sunday</string>
+	<string name="monday">Monday</string>
+	<string name="tuesday">Tuesday</string>
+	<string name="wednesday">Wednesday</string>
+	<string name="thursday">Thursday</string>
+	<string name="friday">Friday</string>
+	<string name="saturday">Saturday</string>
+	<string name="save">Save</string>
+	<string name="cancel">Cancel</string>
+	<string name="startservicestring">Start service</string>
+	<string name="stopservicestring">Stop service</string>
+	<string name="aboutstring">About</string>
+	<string name="settingstring">Settings</string>
+	<string name="morestring">More</string>
+	<string name="helpstring">Help</string>
+	<string name="to">to</string>
+	<string name="time_format">Time Format</string>
+	<string name="AM">AM</string>
+	<string name="PM">PM</string>
+	<string name="Ringtone">Ringtone</string>
+	<string name="Vibrate">Vibrate</string>
+	<string name="Silent">Silent</string>
+	<string name="Modify">Modify</string>
+	<string name="Airplane">Airplane</string>
+	
+	
+	<string name="Delete">Are you sure you want to delete this profile? </string>
+	<string name="Yes">Yes</string>
+	<string name="No">No</string>
+	<string name="Ren_the_profile">Rename the profile</string>
+	<string name="set_the_profile">set the profile</string>
+
+	<string name="Delay_time">Delay Time</string>
+	<string name="Set_the_lang">Set the language</string>
+	
+	<string name="online_help">Online help</string>
+	<string name="bug_report">Bug Reports</string>
+	<string name="web_link">news about Automatic Profile Changer</string>
+	
+	
+	<string name="set_time_format">Set the Time Format</string>
+	<string name="set_delay_time">Set the Delay Time</string>
+	<string name="set_lang">Set the language</string>
+	
+	<string name="lang_notification">You must restart the Automatic Profile Changer to reflect the complete language change</string>
+	<string name="upgradation">upgrade to full version</string>
+	<string name="contributer">contributer- Abhishek Sharma</string>
+	
+	
+	
+
+	
+
+	
+	
+	
+	
+
+
+
+</resources>

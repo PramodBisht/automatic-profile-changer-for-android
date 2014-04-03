@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="wrap_content"
+	android:layout_height="wrap_content" xmlns:android="http://schemas.android.com/apk/res/android"
+
+
+	android:padding="12dip">
+	<LinearLayout android:orientation="vertical"
+		android:layout_width="wrap_content" android:layout_height="wrap_content">
+		<LinearLayout android:orientation="horizontal"
+			android:layout_width="wrap_content" android:layout_height="wrap_content">
+			
+			<TextView android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:id="@+id/nameofprofile"
+				android:text="Diary Title " android:textColor="@color/White"
+				android:textStyle="bold" android:textSize="18dip" />
+		</LinearLayout>
+		<LinearLayout android:orientation="horizontal"
+			android:layout_width="wrap_content" android:layout_height="wrap_content">
+			<TextView android:id="@+id/startinghour"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:textColor="@color/White" android:textSize="14dip"
+
+				android:layout_marginRight="1sp" />
+			<TextView android:text=":" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:textColor="@color/White"
+				android:textSize="14dip" />
+			<TextView android:id="@+id/startingmin"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:textColor="@color/White" android:textSize="14dip"
+				android:layout_marginLeft="1sp" />
+			<TextView android:layout_width="wrap_content" android:id="@+id/am_pm_startinghour"
+				android:layout_height="wrap_content" android:textColor="@color/White"
+				android:textSize="14dip" android:layout_marginLeft="1sp"
+				android:layout_marginRight="10sp" />
+
+			<TextView android:text="@string/to" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:textColor="@color/White"
+				android:textSize="14dip" />
+			<TextView android:id="@+id/endinghour" android:layout_width="wrap_content"
+				android:layout_marginLeft="10sp" android:layout_height="wrap_content"
+				android:textColor="@color/White" android:textSize="14dip" />
+			<TextView android:text=":" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:textColor="@color/White"
+				android:textSize="14dip" />
+			<TextView android:id="@+id/endingmin" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:textColor="@color/White"
+				android:textSize="14dip" />
+			<TextView android:id="@+id/am_pm_endinghour"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:textColor="@color/White" android:textSize="14dip" />
+
+		</LinearLayout>
+
+
+		<TextView android:id="@+id/typeofprofile"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:text="typeofprofile" android:textColor="@color/White"
+			android:textSize="14dip" />
+
+		<TextView android:id="@+id/mon" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:textColor="@color/White"
+			android:textSize="14dip" />
+
+
+	</LinearLayout>
+
+</RelativeLayout>

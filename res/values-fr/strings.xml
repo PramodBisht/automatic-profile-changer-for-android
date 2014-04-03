@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Automatique profil de Changeur-french version
+	</string>
+	<string name="app_name">Automatic Profile Changer</string>
+	<string name="eula_tilte">Contrat de licence</string>
+	<string name="eula_accept">accepter</string>
+	<string name="eula_refuse">refusent</string>
+	<string name="create_new_profile">Créer un nouveau profil</string>
+	<string name="empty">Vous n\'avez pas défini de profil jusqu\'au encore
+	</string>
+	<string name="back">Retour à l\'écran précédent</string>
+	<string name="creator_of_software">Ce logiciel est créé par Pramod Singh Bisht
+	</string>
+	<string name="donate">Faire un don</string>
+	<string name="donaterequest">Si vous vous sentez, cette application a changé
+		votre vie
+		et vous voulez aider à son développement. Ensuite, faites un
+		don!!
+	</string>
+		<string name="time_format">Format de l\'heure</string>
+	<string name="contributer">contributer- Abhishek Sharma</string>
+	<string name="feedback">N\'hésitez pas à demander quoi que ce soit ce qui
+		concerne cette demande et pour tout type de suggestion et de rapport
+		de bug que vous êtes les bienvenus
+	</string>
+	<string name="feedbackbutton">Commentaires</string>
+	<string name="paypaldonation">Faire un don par paypal</string>
+	<string name="helptext">Il s\'agit de la première version du profil
+		automatique
+		changeur. L\'utilisation de ce logiciel, vous pouvez
+		définir le délai dans
+		lequel votre volonté
+		automatiquement modifié.
+		Car
+		c\'est seulement une chose que vous devez faire est d\'abord de
+		définir
+		les jours de la semaine et
+		le temps et le type de profil.
+		nous
+		avons donné trois type de profil pour l\'utilisateur qui sont
+		Sonnerie, Silencieux,
+		Vibreur.
+		En mode sonnerie de votre travail mobile
+		en tant que paramètres
+		d\'habitude, dans votre mode silencieux
+		mobile va
+		devenir silencieux et vibreur
+		que ta volonté soit en mode vibreur.
+	</string>
+	<string name="disclaimair">
+		<b>L\'auteur de cette application a communiqué cette
+			l\'application
+			sous licence Apache. Ainsi, l\'auteur de cette application
+			serait
+			responsable de tout type de dommage et de perte.</b>
+	</string>
+	<string name="fakecommerciallypayedtosomeone">
+		<i>Ce logiciel est libre d\'utiliser et de distribuer. Si vous
+			avoir
+			quelqu\'un payé pour cela. Ensuite, il remboursement</i>
+	</string>
+	<string name="set_the_name_of_profile">Définissez le nom du profil</string>
+	<string name="hint_name_of_profile">Entrez le nom du profil</string>
+	<string name="set_starting_time">Régler l\'heure de départ</string>
+	<string name="set_ending_time">Réglez l\'heure de fin</string>
+	<string name="select_days">Sélectionnez jours</string>
+	<string name="sunday">dimanche</string>
+	<string name="monday">lundi</string>
+	<string name="tuesday">mardi</string>
+	<string name="wednesday">mercredi</string>
+	<string name="thursday">jeudi</string>
+	<string name="friday">vendredi</string>
+	<string name="saturday">samedi</string>
+	<string name="save">Enregistrer</string>
+	<string name="cancel">Annuler</string>
+	<string name="startservicestring">Démarrez le service</string>
+	<string name="stopservicestring">Arrêtez le service</string>
+	<string name="aboutstring">À propos</string>
+	<string name="settingstring">réglages</string>
+	<string name="morestring">Plus</string>
+	<string name="helpstring">Aide</string>
+	<string name="to">à</string>
+	<string name="AM">AM</string>
+	<string name="PM">PM</string>
+	<string name="Ringtone">sonnerie</string>
+	<string name="Vibrate">vibrer</string>
+	<string name="Silent">silencieuse</string>
+	<string name="Airplane">d\'avion</string>
+	<string name="Modify">modifier</string>
+	<string name="Delete">Etes-vous sûr de vouloir supprimer ce profil?
+	</string>
+	<string name="Yes">Oui</string>
+	<string name="No">Non</string>
+	<string name="Ren_the_profile">Renommer le profil</string>
+	<string name="set_the_profile">définir le profil</string>
+
+	<string name="Delay_time">délai</string>
+	<string name="Set_the_lang">Régler la langue</string>
+
+<string name="online_help">L\'aide en ligne</string>
+	<string name="bug_report">Rapports de bugs</string>
+	<string name="web_link">nouvelles sur le profil automatique Changeur</string>
+
+<string name="set_time_format">Réglez le Format de l\'heure</string>
+	<string name="set_delay_time">Définir le délai</string>
+	<string name="set_lang">Régler la langue</string>
+	
+	<string name="lang_notification">Vous devez redémarrer le changeur automatique de profil afin de refléter le changement de langue complète</string>
+	<string name="upgradation">mise à niveau vers la version complète</string>
+	
+
+</resources>

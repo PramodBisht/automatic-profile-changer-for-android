@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">自動プロファイルチェンジャー (Japanease version)</string>
+	<string name="app_name">Automatic Profile Changer</string>
+	<string name="eula_tilte">ライセンス契約</string>
+	<string name="eula_accept">受け入れる</string>
+	<string name="eula_refuse">拒絶する</string>
+	<string name="create_new_profile">新しいプロファイルを作成します。</string>
+	<string name="empty">あなたはまでまだ任意のプロファイルを設定していない</string>
+	<string name="back">戻る前の画面へ</string>
+	<string name="creator_of_software">このソフトウェアは、PramodさんシンBishtによって作成されます。
+	</string>
+	<string name="contributer">contributer- Abhishek Sharma</string>
+	<string name="donate">寄付する</string>
+	<string name="donaterequest">あなたが感じる場合、このアプリケーションでは、あなたの人生を変更され、その開発をサポートしたい。その後、寄付！！</string>
+	<string name="feedback">何かこのアプリケーションを捉えて提案とバグレポートのいかなる種類のあなたが最も歓迎されているお気軽に
+	</string>
+	<string name="feedbackbutton">フィードバック</string>
+	<string name="paypaldonation">Paypalによって寄付</string>
+	<string name="helptext">これは、自動プロファイルチェンジャーの最初のリリースです。このソフトウェアを使用して、あなたは自動的に変更される時間を設定することができます。それのためにあなたがする必要がある唯一の事は最初の週と時間とプロファイルのタイプの日数を設定することです。私たちは、着信音、サイレント、バイブいるユーザーのプロファイルの3種類を与えている。着メロモード携帯作業で次のように一般的な設定は、サイレントモードでお使いの携帯はサイレントになり、振動では振動モードになります。</string>
+	<string name="disclaimair"><b>このアプリケーションの作者は、Apacheライセンスの下でこのアプリケーションをリリースしています。そう、このアプリケーションの作者は、損傷やいかなる損害についても責任があります。</b></string>
+	<string name="fakecommerciallypayedtosomeone"><i>このソフトウェアは、使用および配布は自由です。このために誰かをpayedされている場合。その後、それを返金</i></string>
+	<string name="set_the_name_of_profile">プロファイルの名前を設定します。</string>
+	<string name="hint_name_of_profile">プロファイルの名前を入力します。</string>
+	<string name="set_starting_time">開始時間を設定する</string>
+	<string name="set_ending_time">終了時刻を設定する</string>
+	<string name="select_days">選択日</string>
+	<string name="sunday">日曜日</string>
+	<string name="monday">月</string>
+		<string name="time_format">時間のフォーマット</string>
+	<string name="tuesday">火曜日</string>
+	<string name="wednesday">水曜日</string>
+	<string name="thursday">木曜日</string>
+	<string name="friday">金曜日</string>
+	<string name="saturday">土曜日</string>
+	<string name="save">保存</string>
+	<string name="cancel">キャンセル</string>
+	<string name="startservicestring">サービスを開始</string>
+	<string name="stopservicestring">サービスを停止します。</string>
+	<string name="aboutstring">について</string>
+	<string name="settingstring">設定</string>
+	<string name="morestring">より</string>
+	<string name="helpstring">ヘルプ</string>
+	<string name="to">への</string>
+	<string name="AM">午前</string>
+	<string name="PM">PM</string>
+	<string name="Ringtone">着メロ</string>
+	<string name="Vibrate">振動する</string>
+	<string name="Silent">サイレント</string>
+	<string name="Airplane">飛行機</string>
+	<string name="Modify">変更</string>
+	<string name="Delete">あなたはこのプロファイルを削除してもよろしいですか？ </string>
+	<string name="Yes">はい</string>
+	<string name="No">なし</string>
+	<string name="Ren_the_profile">プロファイルの名前を変更する</string>
+	<string name="set_the_profile">プロファイルを設定する</string>
+
+	<string name="Delay_time">遅延時間</string>
+	<string name="Set_the_lang">言語を設定する</string>
+	
+	<string name="online_help">オンラインヘルプ</string>
+	<string name="bug_report">バグ報告</string>
+	<string name="web_link">プロファイルの自動チェンジャーについてのニュース</string>
+	
+	<string name="set_time_format">時刻書式を設定する</string>
+	<string name="set_delay_time">遅延時間を設定します。</string>
+	<string name="set_lang">言語を設定する</string>
+	
+	<string name="lang_notification">あなたは完全な言語の変更を反映するプロファイルの自動チェンジャーを再起動する必要があります</string>
+	
+	<string name="upgradation">フルバージョンへのアップグレード</string>
+	
+
+
+
+</resources>
+

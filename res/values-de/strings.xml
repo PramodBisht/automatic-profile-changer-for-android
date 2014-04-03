@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Automatische Profil Changer-german version</string>
+	<string name="app_name">Automatic Profile Changer</string>
+	<string name="eula_tilte">Lizenzvereinbarung</string>
+	<string name="eula_accept">akzeptieren</string>
+	<string name="eula_refuse">verweigern</string>
+	<string name="create_new_profile">Neues Profil erstellen</string>
+	<string name="empty">Sie haben kein Profil, bis noch</string>
+	<string name="back">Zurück zum vorherigen Bildschirm</string>
+	<string name="creator_of_software">Diese Software wird von Pramod Singh Bisht erstellt
+	</string>
+	<string name="donate">spenden</string>
+	<string name="donaterequest">Wenn Sie das Gefühl, hat diese Anwendung Ihr Leben
+		verändert
+		und Sie möchten ihre Entwicklung zu unterstützen. Dann spenden Sie!!
+	</string>
+	<string name="feedback">Fühlen Sie sich frei zu fragen, was hinsichtlich
+		dieser Anwendung und für jede Art von Anregung und Bug-Report sind Sie
+		herzlich willkommen
+	</string>
+	<string name="contributer">contributer- Abhishek Sharma</string>
+	<string name="feedbackbutton">Rückkopplung</string>
+	<string name="paypaldonation">Spenden über Paypal</string>
+	<string name="helptext">Dies ist das erste Release von Automatic Profil
+		Wechsler. Mit dieser Software können Sie die Zeit, in der dein Wille
+		automatisch geändert zu bekommen.
+		Denn nur eine Sache, die Sie tun müssen, ist zunächst auf die Tage der
+		Woche und
+		Zeit und Art des Profils.
+		haben wir drei Typen von Profil für Benutzer, die Ringtone, Silent gegeben
+		sind,
+		Vibrieren.
+		In Klingelton-Modus Ihr Handy wie gewohnt Einstellungen im Silent-Modus
+		Ihre
+		Handy wird still und in Schwingung
+		Ihren Willen in vibrieren Modus.</string>
+	<string name="disclaimair">
+		<b>Der Autor dieses Antrags hat Version dieses
+			Anwendung unter Apache-Lizenz. Also, der Autor dieser Anwendung
+			wäre für jede Art von Beschädigung und Verlust.</b>
+	</string>
+	<string name="fakecommerciallypayedtosomeone">
+		<i>Diese Software ist kostenlos zu benutzen und zu verteilen. Wenn Sie
+			bezahlt haben jemanden dafür. Dann erstatten sie</i>
+	</string>
+	<string name="set_the_name_of_profile">Legen Sie den Namen des Profils</string>
+	<string name="hint_name_of_profile">Geben Sie den Namen des Profils</string>
+	<string name="set_starting_time">Set Startzeit</string>
+	<string name="set_ending_time">Set Endzeit</string>
+	<string name="select_days">wählen Sie die Tage</string>
+	<string name="sunday">Sonntag</string>
+	<string name="monday">Montag</string>
+	<string name="tuesday">Dienstag</string>
+	<string name="wednesday">Mittwoch</string>
+	<string name="thursday">Donnerstag</string>
+	<string name="friday">Freitag</string>
+	<string name="saturday">Samstag</string>
+	<string name="save">sparen</string>
+	<string name="cancel">stornieren</string>
+	<string name="startservicestring">Dienst starten</string>
+	<string name="stopservicestring">Stoppt den Dienst</string>
+	<string name="aboutstring">über</string>
+	<string name="settingstring">Einstellungen</string>
+	<string name="morestring">mehr</string>
+	<string name="helpstring">Hilfe</string>
+	<string name="to">zu</string>
+	<string name="AM">AM</string>
+	<string name="PM">PM</string>
+	<string name="Ringtone">Ringtone</string>
+	<string name="Vibrate">vibrieren</string>
+	<string name="Silent">still</string>
+	<string name="Airplane">Flugzeug</string>
+	<string name="Modify">ändern</string>
+	<string name="Delete">Sind Sie sicher, dass Sie dieses Profil löschen?
+	</string>
+	<string name="Yes">ja</string>
+	<string name="No">nicht</string>
+	<string name="Ren_the_profile">Benennen Sie das Profil</string>
+	<string name="set_the_profile">das Profil</string>
+
+	<string name="Delay_time">Delay Time</string>
+	<string name="Set_the_lang">Stellen Sie die Sprache</string>
+
+<string name="online_help">Online-Hilfe</string>
+	<string name="bug_report">Fehlerberichte</string>
+	<string name="web_link">Nachrichten über Automatic Profile Changer</string>
+	
+		<string name="time_format">Time Format</string>
+	
+	<string name="set_time_format">Stellen Sie die Time Format</string>
+	<string name="set_delay_time">Stellen Sie die Verzögerungszeit</string>
+	<string name="set_lang">Stellen Sie die Sprache</string>
+	
+	<string name="lang_notification">Sie müssen einen Neustart des Automatic Profile Changer, um die komplette Sprache zu ändern reflektieren</string>
+	
+	<string name="upgradation">Upgrade auf Vollversion</string>
+
+
+</resources>

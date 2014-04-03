@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Cambiador automático de perfil -Spanish version
+	</string>
+	<string name="app_name">Cambiador automático de perfil</string>
+	<string name="eula_tilte">Acuerdo de licencia</string>
+	<string name="eula_accept">aceptar</string>
+	<string name="eula_refuse">rechazar</string>
+	<string name="create_new_profile">Crear nuevo perfil</string>
+	<string name="empty">No ha establecido todavía ningún perfil hasta
+	</string>
+	<string name="back">Volver a la pantalla anterior</string>
+	<string name="creator_of_software">Este software es creado por Pramod Singh Bisht
+	</string>
+	<string name="donate">donar</string>
+	<string name="donaterequest">Si usted se siente, esta aplicación ha cambiado su
+		vida
+		y desea apoyar su desarrollo. Entonces, donar!!</string>
+	<string name="feedback">No dude en hacer cualquier cosa lo que se refiere
+		esta solicitud y para cualquier tipo de sugerencia y reporte de
+		errores que son muy bienvenidos
+	</string>
+	
+		<string name="time_format">Formato de hora</string>
+	<string name="contributer">contributer- Abhishek Sharma</string>
+	<string name="feedbackbutton">realimentación</string>
+	<string name="paypaldonation">Donar a través de PayPal</string>
+	<string name="helptext">Esta es la primera versión de cambiador automático
+		del perfil. Con este software se puede configurar el tiempo en que el
+		automáticamente se cambian. Porque sólo una cosa que tienes que hacer
+		es establecer primero los días de semana y la hora y el tipo de
+		perfil. Nos han dado tres tipos de perfil de usuario que son tono,
+		Silencio, Vibración. En el modo de tono de llamada a su móvil de
+		trabajo como la configuración de costumbre, en el modo silencioso de
+		su móvil se convertirá en silencio y en vibrar tu voluntad en el modo
+		de vibración.</string>
+	<string name="disclaimair">
+		<b>El autor de esta aplicación ha comunicado esta aplicación bajo la
+			licencia Apache. Por lo tanto, el autor de esta aplicación sería
+			responsable de cualquier tipo de daño y la pérdida de</b>
+	</string>
+	<string name="fakecommerciallypayedtosomeone">
+		<i>Este software es libre de usar y distribuir. Si han pagado a
+			alguien para esto. A continuación, se reembolsará.</i>
+	</string>
+	<string name="set_the_name_of_profile">Establezca el nombre del perfil</string>
+	<string name="hint_name_of_profile">Escriba el nombre del perfil</string>
+	<string name="set_starting_time">Establecer hora de inicio</string>
+	<string name="set_ending_time">Establecer la hora de finalizar</string>
+	<string name="select_days">Seleccione los días</string>
+	<string name="sunday">domingo</string>
+	<string name="monday">lunes</string>
+	<string name="tuesday">martes</string>
+	<string name="wednesday">miércoles</string>
+	<string name="thursday">jueves</string>
+	<string name="friday">viernes</string>
+	<string name="saturday">sábado</string>
+	<string name="save">ahorrar</string>
+	<string name="cancel">cancelar</string>
+	<string name="startservicestring">iniciar el servicio</string>
+	<string name="stopservicestring">Detenga el servicio</string>
+	<string name="aboutstring">sobre</string>
+	<string name="settingstring">configuración</string>
+	<string name="morestring">más</string>
+	<string name="helpstring">ayuda</string>
+	<string name="to">a</string>
+	<string name="AM">AM</string>
+	<string name="PM">PM</string>
+	<string name="Ringtone">tono</string>
+	<string name="Vibrate">vibrar</string>
+	<string name="Silent">silencioso</string>
+	<string name="Airplane">avión</string>
+	<string name="Modify">modificar</string>
+	<string name="Delete">¿Está seguro que desea eliminar este perfil?
+	</string>
+	<string name="Yes">sí</string>
+	<string name="No">no</string>
+	<string name="Ren_the_profile">Cambie el nombre del perfil</string>
+	<string name="set_the_profile">establecer el perfil</string>
+
+	<string name="Delay_time">Tiempo de retardo</string>
+	<string name="Set_the_lang">Establecer el idioma</string>
+	
+	<string name="online_help">ayuda en línea</string>
+	<string name="bug_report">Informes de errores</string>
+	<string name="web_link">noticias sobre cambiador automático de perfil</string>
+	
+	<string name="set_time_format">Ajuste el formato de hora</string>
+	<string name="set_delay_time">Establecer el tiempo de retardo</string>
+	<string name="set_lang">Establecer el idioma</string>
+	
+	<string name="lang_notification">Es necesario reiniciar el cambiador automático de perfil para reflejar el cambio lingüístico completo</string>
+	<string name="upgradation">actualizar a la versión completa</string>
+	
+
+
+
+</resources>

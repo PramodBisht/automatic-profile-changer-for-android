@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="hello">自动配置转换</string>
+	<string name="app_name">自动配置转换</string>
+	<string name="eula_tilte">许可协议</string>
+	<string name="eula_accept">接受</string>
+	<string name="eula_refuse">拒绝</string>
+	<string name="create_new_profile">创建新的配置文件</string>
+	<string name="empty">您还没有设置任何个人资料，直到尚未</string>
+	<string name="back">回到前一画面</string>
+	<string name="creator_of_software">这个软件是创建普拉莫德辛格Bisht
+	</string>
+	<string name="donate">捐赠</string>
+	<string name="donaterequest">如果你觉得，这个应用程序已经改变你的生活，你要支持其发展。然后，捐赠！！</string>
+	<string name="feedback">随意问任何关于此应用程序的任何建议和bug报告，您是最欢迎的
+	</string>
+	<string name="feedbackbutton">反馈</string>
+	<string name="paypaldonation">通过Paypal捐款</string>
+	<string name="helptext">这是自动配置文件换的第一个版本。使用这个软件，你可以设置在您将自动获得改变的时间。它只有一件事你需要做的是第一套一周的日子和时间，配置文件的类型。我们已经为用户配置文件的类型，铃声，静音，振动。铃声模式您的移动工作像往常一样设置，你的手机在无声模式下会变得沉默，在振动将振动模式。</string>
+	<string name="disclaimair"><b>这个应用程序的作者Apache许可下发布该应用程序。因此，该应用程序的作者将任何破坏和损失负责。</b></string>
+	<string name="fakecommerciallypayedtosomeone"><i>这个软件是免费使用和分发。，如果您有payed此人。然后，退款</i></string>
+	<string name="set_the_name_of_profile">设置配置文件的名称</string>
+	<string name="hint_name_of_profile">输入配置文件的名称</string>
+	<string name="set_starting_time">设置起始时间</string>
+	<string name="set_ending_time">设置结束时间</string>
+	<string name="select_days">选择天</string>
+	<string name="sunday">星期日</string>
+	
+		<string name="time_format">时间格式</string>
+	<string name="monday">（星期一）</string>
+	<string name="tuesday">星期二</string>
+	<string name="wednesday">星期三</string>
+	<string name="contributer">contributer- Abhishek Sharma</string>
+	<string name="thursday">星期四</string>
+	<string name="friday">星期五</string>
+	<string name="saturday">星期六</string>
+	<string name="save">保存</string>
+	<string name="cancel">取消</string>
+	<string name="startservicestring">启动服务</string>
+	<string name="stopservicestring">停止服务</string>
+	<string name="aboutstring">关于</string>
+	<string name="settingstring">设置</string>
+	<string name="morestring">设置...</string>
+	<string name="helpstring">设置......</string>
+	<string name="to">到</string>
+	<string name="AM">上午</string>
+	<string name="PM">下午</string>
+	<string name="Ringtone">铃声</string>
+	<string name="Vibrate">颤动</string>
+	<string name="Silent">无声</string>
+	<string name="Airplane">飞机</string>
+	<string name="Modify">修改</string>
+	<string name="Delete">你确定要删除此配置文件吗？ </string>
+	<string name="Yes">是</string>
+	<string name="No">无</string>
+	<string name="Ren_the_profile">重命名配置文件</string>
+	<string name="set_the_profile">设置配置文件</string>
+
+	<string name="Delay_time">延迟时间</string>
+	<string name="Set_the_lang">设置语言</string>
+	
+	<string name="online_help">在线帮助</string>
+	<string name="bug_report">报告问题</string>
+	<string name="web_link">新闻自动配置交换</string>
+	
+	
+	<string name="set_time_format">设置时间格式</string>
+	<string name="set_delay_time">设置延迟时间</string>
+	<string name="set_lang">设置语言</string>
+	
+	<string name="lang_notification">您必须重新启动自动配置更换，以反映完整的语言变化</string>
+	
+	<string name="upgradation">升级到完整版</string>
+
+    
+</resources>

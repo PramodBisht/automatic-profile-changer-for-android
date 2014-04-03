@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+android:background="@color/transparent">
+	<TextView android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:text="@string/hello" />
+	<Button android:layout_height="wrap_content" android:text="@string/create_new_profile"
+		android:id="@+id/button1" android:layout_gravity="center_horizontal"
+		android:layout_width="match_parent"></Button>
+	<ListView android:layout_height="fill_parent" android:id="@android:id/list"
+		android:layout_width="fill_parent" android:layout_gravity="center_vertical"
+		android:dividerHeight="1px"
+		></ListView>
+	<TextView android:id="@android:id/empty" android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:text="@string/empty" />
+
+
+</LinearLayout>
